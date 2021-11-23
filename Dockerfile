@@ -1,3 +1,4 @@
+# FROM openjdk:11
 FROM registry.access.redhat.com/openjdk/openjdk-11-rhel7:latest
 
 # If you have your jar built locally it's enough to copy it over
